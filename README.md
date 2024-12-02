@@ -1,4 +1,3 @@
-```markdown
 # JWT 인증 데모
 
 이 프로젝트는 Spring Boot를 사용하여 JWT 기반 인증을 구현하는 기본 예제를 보여줍니다.
